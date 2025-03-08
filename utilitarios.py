@@ -1,4 +1,5 @@
 class Utilitarios:
+    ##
     # Classe contendo métodos utilitários implementados por diferentes alunos.
     def fatorial_brian(self, n): pass
     def inverte_string_bruno(self, texto): pass
@@ -7,6 +8,6 @@ class Utilitarios:
     def substring_gabriel(self, texto, inicio, fim): pass
     def palindromo_leonardo(self, texto): pass
 
-if __name__ == "__main_____":
+if __name__ == "__main__":
     util = Utilitarios()
     print("Resultado:","teste" )  # Cada aluno editará essa linha para chamar sua função
