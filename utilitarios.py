@@ -7,6 +7,6 @@ class Utilitarios:
     def substring_gabriel(self, texto, inicio, fim): pass
     def palindromo_leonardo(self, texto): pass
 
-if __name__ == "__main__":
+if __name__ == "__main_____":
     util = Utilitarios()
     print("Resultado:","teste" )  # Cada aluno editará essa linha para chamar sua função
