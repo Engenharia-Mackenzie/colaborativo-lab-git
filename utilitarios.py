@@ -9,4 +9,4 @@ class Utilitarios:
 
 if __name__ == "__main__":
     util = Utilitarios()
-    print("Resultado:", )  # Cada aluno editará essa linha para chamar sua função
+    print("Resultado:","teste" )  # Cada aluno editará essa linha para chamar sua função
