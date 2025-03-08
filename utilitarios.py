@@ -1,5 +1,5 @@
 class Utilitarios:
-    ##
+    ########
     # Classe contendo métodos utilitários implementados por diferentes alunos.
     def fatorial_brian(self, n): pass
     def inverte_string_bruno(self, texto): pass
